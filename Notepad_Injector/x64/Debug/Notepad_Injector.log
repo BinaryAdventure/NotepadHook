@@ -1,0 +1,7 @@
+﻿  Notepad_Injector.cpp
+d:\projects2\notepad_injector\packages\easyhooknativepackage.2.7.6270\build\native\include\easyhook.h(39): warning C4005: 'NTDDI_VERSION': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(206): note: see previous definition of 'NTDDI_VERSION'
+d:\projects2\notepad_injector\packages\easyhooknativepackage.2.7.6270\build\native\include\easyhook.h(40): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+  Notepad_Injector.vcxproj -> D:\Projects2\Notepad_Injector\x64\Debug\Notepad_Injector.exe
+  Notepad_Injector.vcxproj -> D:\Projects2\Notepad_Injector\x64\Debug\Notepad_Injector.pdb (Full PDB)
